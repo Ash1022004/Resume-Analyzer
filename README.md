@@ -22,7 +22,7 @@ The webpage simulates how a resume analyzer tool would work by providing a simpl
 ---
 # 📄 Job Vault - Resume Analyzer (Demo)
 
-(Demo-Screenshot.png)
+![Screenshot of webpage](Demo-Screenshot.png)
 
 This is a **demo webpage prototype** for a Resume Analyzer.
 
