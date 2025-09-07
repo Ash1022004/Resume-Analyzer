@@ -20,6 +20,13 @@ The webpage simulates how a resume analyzer tool would work by providing a simpl
 👉 Live Link: [[(https://ash1022004.github.io/Resume-Analyzer/)](https://ash1022004.github.io/Resume-Analyzer/)]
 
 ---
+# 📄 Job Vault - Resume Analyzer (Demo)
+
+(Demo-Screenshot.png)
+
+This is a **demo webpage prototype** for a Resume Analyzer.
+
+---
 
 ## 🎨 UI/UX Design
 - **Clean & Minimal** layout.  
