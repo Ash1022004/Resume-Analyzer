@@ -33,10 +33,9 @@ This is a **demo webpage prototype** for a Resume Analyzer.
 - Branding: *Job Vault* header.  
 - Responsive and user-friendly.  
 - Color Palette:  
-  - Primary: Navy Blue (#1E3A8A)  
-  - Secondary: Teal (#14B8A6)  
-  - Neutral: White (#FFFFFF), Light Gray (#F3F4F6)  
-  - Accent: Amber (#F59E0B)  
+  - Primary: Dark Lavender (#695094)  
+  - Secondary: Royal Purple (#643788)  
+  - Neutral: White (#FFFFFF), Light Gray (#F3F4F6)   
 
 ---
 
