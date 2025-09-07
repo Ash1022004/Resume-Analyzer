@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Job Vault - Resume Analyzer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Job Vault</h1>
+  </header>
+
+  <div class="container">
+    <h2>Resume Analyzer (Demo)</h2>
+    <p>Upload your resume and paste a job description below to simulate analysis.</p>
+
+    <label for="resumeUpload">Upload Resume:</label>
+    <input type="file" id="resumeUpload" disabled>
+
+    <label for="jobDesc">Job Description:</label>
+    <textarea id="jobDesc" placeholder="Paste job description here..."></textarea>
+
+    <button onclick="showResults()">Analyze Resume</button>
+
+    <div class="results" id="results" style="display: none;">
+      <h3>Results</h3>
+      <p class="result-item"><strong>Match Score:</strong> 75%</p>
+      <p class="result-item"><strong>Missing Keywords:</strong> Excel, GST, Audit</p>
+      <p class="result-item"><strong>Suggestions:</strong> Add more project details.</p>
+    </div>
+  </div>
+
+  <footer>
+    © 2025 Job Vault – Demo Prototype
+  </footer>
+
+  <script>
+    function showResults() {
+      document.getElementById("results").style.display = "block";
+    }
+  </script>
+</body>
+</html>
